@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template
 
-- [Read the documentation for project](docs/info.md)
+Tiny Tapeout EDU
 
 ## What is Tiny Tapeout?
 
