@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template
 
-Tiny Tapeout EDU
+Wokwi Project using a D flip-flop run to display "HYULDJ" on the 7-segment display.
 
 ## What is Tiny Tapeout?
 
