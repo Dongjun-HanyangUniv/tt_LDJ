@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     427865726743815169       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "LDJ demo"      # Project title
+  title:        "LDJ_D Flip-Flop Demo"      # Project title
   author:       "DONGJUN LEE"      # Your name
   discord:      "Hanyang Univ_Denis"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Tiny Tapeout EDU"      # One line description of what your project does
+  description:  "Display 'HYULDJ' on 7 seg display"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     2       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -22,16 +22,16 @@ pinout:
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
-  ui[7]: ""
+  ui[7]: "run"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
+  uo[0]: "LED_A"
+  uo[1]: "LED_B"
+  uo[2]: "LED_C"
+  uo[3]: "LED_D"
+  uo[4]: "LED_E"
+  uo[5]: "LED_F"
+  uo[6]: "LED_G"
   uo[7]: ""
 
   # Bidirectional pins
